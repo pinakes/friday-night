@@ -35,3 +35,5 @@ sysinfo.txt
 
 #Specific Build
 /FridayNight.app/
+
+.DS_Store
